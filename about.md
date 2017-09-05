@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Contact me on [LinkedIn](https://www.linkedin.com/in/emcain)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I'm a web developer based in Portland, Oregon.
