@@ -1,11 +1,10 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title: About Emily
 ---
 
-Contact me on [LinkedIn](https://www.linkedin.com/in/emcain)
+I make websites and mobile apps with Python, Bootstrap, React, and Sass.
 
-### More Information
+I've also worked with Go, PHP, Ruby, and SQL.
 
-I'm a web developer based in Portland, Oregon.
+When I'm not working with tech, I enjoy lifting weights, board games, hiking, and volunteering.
