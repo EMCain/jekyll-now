@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O'Reilly Blog Post: Solving Software Problems.
+title: O'Reilly Blog Post - Solving Software Problems
 ---
 
 I wrote a [post](https://www.oreilly.com/ideas/4-steps-to-solving-any-software-problem) for O'Reilly's blog about the problem-solving process. It's grown out of some ideas I've been mulling over for a while, and is an attempt to articulate a key skill that everyone knows we need, but we are rarely taught directly.
