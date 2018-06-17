@@ -142,7 +142,8 @@ Turns out Heroku doesn't like to just run scripts with workers, because it expec
 You can fix this by creating a simple web server. I used [this StackOverflow answer](https://stackoverflow.com/a/39170561) as a guide.
 
 > Code (server.py):
->
+
+
 ```python
 from os import environ
 from flask import Flask
@@ -150,7 +151,9 @@ from flask import Flask
 app = Flask(__name__)
 app.run(environ.get('PORT'))
 ```
+
 > Then, in your Procfile, just say: web: python server.py.
+
 
 I tried this (and committed and pushed to Heroku again). I then saw the following error:
 
@@ -159,6 +162,7 @@ Error R10 (Boot timeout) -> Web process failed to bind to $PORT within 60 second
 ```
 
 I fixed this by setting the host when I ran the app:
+
 
 ```python
 app.run(host= '0.0.0.0', port=environ.get('PORT'))
