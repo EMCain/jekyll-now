@@ -20,4 +20,4 @@ You can find me on Twitter as [\@data_bae](https://www.twitter.com/) and on GitH
 
 [Django Page Checklist](/django-page-checklist/)
 
-[4 steps to solving any software problem](https://www.oreilly.com/ideas/4-steps-to-solving-any-software-problem)
+[4 steps to solving any software problem](https://www.oreilly.com/ideas/4-steps-to-solving-any-software-problem) on O'Reilly Ideas 
