@@ -12,7 +12,7 @@ I write about software, IT security, and how people learn about them.
 
 When I'm not working with tech, I enjoy riding bikes, lifting weights, board games, hiking, and volunteering.
 
-You can find me on Twitter as [\@data_bae](https://www.twitter.com/) and on GitHub as [EMCain](https://www.github.com/emcain).
+You can find me on Twitter as [@data_bae](https://www.twitter.com/) and on GitHub as [EMCain](https://www.github.com/emcain).
 
 ## Featured Writing
 
@@ -20,4 +20,4 @@ You can find me on Twitter as [\@data_bae](https://www.twitter.com/) and on GitH
 
 [Django Page Checklist](/django-page-checklist/)
 
-[4 steps to solving any software problem](https://www.oreilly.com/ideas/4-steps-to-solving-any-software-problem) on O'Reilly Ideas 
+[4 steps to solving any software problem](https://www.oreilly.com/ideas/4-steps-to-solving-any-software-problem) on O'Reilly Ideas
