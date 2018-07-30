@@ -8,7 +8,7 @@ It's also a chance for me to combine two of my seemingly unrelated obsessions of
 
 ## You'll Never get Strong with Weight Machines
 
-Over at his excellent Gains blog, fitness coach Adam Fisher [writes about his early experiences with weight lifting](http://www.gains.af/blog/machines-vs-freeweights), and how the messages he received formed his point of view on the equipment he had used.
+Over at their excellent Gains blog, fitness coach Adam Fisher [writes about their early experiences with weight lifting](http://www.gains.af/blog/machines-vs-freeweights), and how the messages they received formed their point of view on the equipment they had used.
 
 > When I first started lifting, I used the machines at my local YMCA. I didn’t know how to lift, what good form looked like, or how to progress a program. [...]
 >
@@ -99,6 +99,6 @@ If you're a programmer who *has* to use PHP at your job, your relationship with 
 
 But I suspect a lot of the folks who rant about the evils of PHP have, at some point in their life, found themselves in a position where they didn't have those options. When you're tasked with keeping a legacy project going but you don't have the time, resources, or buy-in from management you need to clean up a chaotic codebase, it's inevitable you'll get frustrated, and it's natural to look for someone or something to blame.
 
-My theory is that PHP, out of all the various technologies that make up the infrastructure of the modern Web, attracts so much visceral hatred because people often interact with it in situations where they're powerless to fix the problems they face on a daily basis. And just like Adam wrote about blaming weight machines for his lack of progress when he was just starting out with strength training, programmers often blame PHP for their bad experiences on projects that have a number of cultural and institutional factors standing in the way of effective software development.
+My theory is that PHP, out of all the various technologies that make up the infrastructure of the modern Web, attracts so much visceral hatred because people often interact with it in situations where they're powerless to fix the problems they face on a daily basis. And just like Adam wrote about blaming weight machines for their lack of progress when they were just starting out with strength training, programmers often blame PHP for their bad experiences on projects that have a number of cultural and institutional factors standing in the way of effective software development.
 
 [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law#cite_note-Conway-3) states that "organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations." ([Sarah Mei](https://twitter.com/sarahmei) first introduced me to this idea in her talk [Livable Code](https://www.youtube.com/watch?v=8_UoDmJi7U8), which shaped a lot of the thoughts I'm expressing here.) It would be an oversimplification to say that all the frustrations experienced by PHP programmers are a result of cultural dysfunction--but I do wonder how often vocal contempt for PHP is a way to displace frustration with the behavior of the people around us onto the tool we happen to be using.
