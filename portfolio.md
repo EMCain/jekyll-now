@@ -29,7 +29,9 @@ Some highlights:
 
 ## Videos - [New Relic University](learn.newrelic.com)
 
-Videos for New Relic's free learning content. I wrote the scripts and did all recording and editing for these. 
+Videos for New Relic's free learning content. I wrote the scripts and did all recording and editing for these.
+
+[Service Maps](https://learn.newrelic.com/courses/apm_advanced/service_maps)
 
 [Database Dashboard](https://learn.newrelic.com/courses/intro_apm/database_dashboard)
 
