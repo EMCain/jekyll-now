@@ -18,6 +18,8 @@ You can read my writing on [this site](/) and at [O'Reilly Media](https://www.or
 
 Some highlights:
 
+[Why don’t we follow password security best practices?](https://increment.com/security/password-security-best-practices/) on Increment Magazine
+
 [How to Set up a Twitter Bot with Python and Heroku](https://dev.to/emcain/how-to-set-up-a-twitter-bot-with-python-and-heroku-1n39) on dev.to
 
 [4 steps to solving any software problem](https://www.oreilly.com/ideas/4-steps-to-solving-any-software-problem) - a step-by-step guide for programmers at all experience levels.
@@ -31,7 +33,7 @@ Some highlights:
 
 Videos for New Relic's free learning content. I wrote the scripts and did all recording and editing for these.
 
-[Service Maps](https://learn.newrelic.com/courses/apm_advanced/service_maps)
+[Service Maps](https://learn.newrelic.com/courses/apm_advanced/service_map)
 
 [Database Dashboard](https://learn.newrelic.com/courses/intro_apm/database_dashboard)
 
